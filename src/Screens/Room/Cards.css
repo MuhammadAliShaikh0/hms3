@@ -1,0 +1,48 @@
+.card-media-container {
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .card-media-container:hover .quick-view-overlay {
+    opacity: 1;
+  }
+  
+  .quick-view-overlay {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .quick-view-button {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    border-radius: 0;
+  }
+  
+  .filled-star {
+    color: #ffc107;
+  }
+  
+  .empty-star {
+    color: #e0e0e0;
+  }
+  
+  .rating-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .rating-price-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  .card-category {
+    color: #888;
+  }
+  
