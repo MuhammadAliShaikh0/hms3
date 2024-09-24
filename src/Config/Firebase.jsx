@@ -8,13 +8,7 @@
 
 // // Your web app's Firebase configuration
 // const firebaseConfig = {
-//   apiKey: "AIzaSyCJZoYUGsse-4bkmaz2IrZVYGcpUdfnHME",
-//   authDomain: "localstorage-195f6.firebaseapp.com",
-//   databaseURL: "https://localstorage-195f6-default-rtdb.firebaseio.com",
-//   projectId: "localstorage-195f6",
-//   storageBucket: "localstorage-195f6.appspot.com",
-//   messagingSenderId: "766253277685",
-//   appId: "1:766253277685:web:90d31e911c28b220b4c0bc"
+
 // };
 
 // // Initialize Firebase
@@ -36,12 +30,7 @@ import { getStorage } from "firebase/storage";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAMnlqeLymGUKl70eXphoCo0nRSBZXBe4Q",
-  authDomain: "calculator-3be51.firebaseapp.com",
-  projectId: "calculator-3be51",
-  storageBucket: "calculator-3be51.appspot.com",
-  messagingSenderId: "749289470575",
-  appId: "1:749289470575:web:ccef52b0c15ff0357b2b9a"
+ 
 };
 
 // Initialize Firebase
